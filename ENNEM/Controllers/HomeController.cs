@@ -26,5 +26,9 @@ namespace ENNEM.Controllers
 
             return View();
         }
+        public ActionResult AppSolution()
+        {
+            return View();
+        }
     }
 }
