@@ -216,7 +216,6 @@
     <Content Include="Content\assets\img\hero-bg.png" />
     <Content Include="Content\assets\img\hero-img.png" />
     <Content Include="Content\assets\img\hero-img.svg" />
-    <Content Include="Content\assets\img\logo.png" />
     <Content Include="Content\assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-3.jpg" />
@@ -230,6 +229,7 @@
     <Content Include="Content\assets\img\pricing-free.png" />
     <Content Include="Content\assets\img\pricing-starter.png" />
     <Content Include="Content\assets\img\pricing-ultimate.png" />
+    <Content Include="Content\assets\img\logo.jpg" />
     <Content Include="Content\assets\img\team-shape.svg" />
     <Content Include="Content\assets\img\team\team-1.jpg" />
     <Content Include="Content\assets\img\team\team-2.jpg" />
@@ -287,6 +287,31 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\Bilde 11.jpg" />
+    <Content Include="Content\images\Bilde 3.jpg" />
+    <Content Include="Content\images\Blummenfelt OL-vinner.jpeg" />
+    <Content Include="Content\images\ennem.png" />
+    <Content Include="Content\images\ennem1.jpg" />
+    <Content Include="Content\images\ennem2.jpg" />
+    <Content Include="Content\images\gunnarsdottir-.jpg" />
+    <Content Include="Content\images\gunnarsdottir-07830.jpg" />
+    <Content Include="Content\images\gunnarsdottir-07906 %281%29 %281%29.jpg" />
+    <Content Include="Content\images\gunnarsdottir-07906 %281%29.jpg" />
+    <Content Include="Content\images\gunnarsdottir-07948.jpg" />
+    <Content Include="Content\images\gunnarsdottir-07987.jpg" />
+    <Content Include="Content\images\gunnarsdottir-08034 %281%29 %281%29.jpg" />
+    <Content Include="Content\images\gunnarsdottir-08253 %281%29.jpg" />
+    <Content Include="Content\images\gunnarsdottir-08319.jpg" />
+    <Content Include="Content\images\gunnarsdottir-08469.jpg" />
+    <Content Include="Content\images\gunnarsdottir-08744.jpg" />
+    <Content Include="Content\images\gunnarsdottir-08780.jpg" />
+    <Content Include="Content\images\gunnarsdottir-09145.jpg" />
+    <Content Include="Content\images\gunnarsdottir-09210.jpg" />
+    <Content Include="Content\images\gunnarsdottir-09271.jpg" />
+    <Content Include="Content\images\Hanne Breivik.jpg" />
+    <Content Include="Content\images\Screenshot 2022-04-07 010448.jpg" />
+    <Content Include="Content\images\øivind.jpg" />
+    <Content Include="Content\images\Trond.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -368,9 +393,6 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Views\Home\AppSolution.cshtml" />
-    <Content Include="Views\Home\Blog.cshtml" />
-    <Content Include="Views\Home\Article.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
