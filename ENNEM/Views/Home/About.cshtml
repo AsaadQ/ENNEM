@@ -1,34 +1,29 @@
-﻿@{
-    ViewBag.Title = "About";
+﻿
+@{
+    ViewBag.Title = "Om oss";
 }
 
-<main id="main">
-    <section id="about" class="about">
+<section id="hero" class="hero d-flex align-items-center">
 
+    <div class="videobox">
+      
+                    <video controls>
+                        <source src="~/Content/assets/img/images/Avslutningsseremoni .mp4" type="video/mp4">
+                    </video> <br>
 
-
-    </section>
-    <section id="hero" class="hero d-flex align-items-center">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 d-flex flex-column justify-content-center">
-                    <h2>@ViewBag.Title.</h2>
-                    <h3>@ViewBag.Message</h3>
-
-                    <p>Use this area to provide additional information.</p>
-                    <div data-aos="fade-up" data-aos-delay="600">
-                        <div class="text-center text-lg-start">
- 
-                        </div>
-                    </div>
                 </div>
-                <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="~/Content/assets/img/hero-img.png" class="img-fluid" alt="">
-                </div>
-            </div>
-        </div>
+    
 
-    </section><!-- End Hero -->
+</section>
 
-</main>
+<style>
+    #videobox {
+        display: block;
+        height: 100%;
+        left: 25%;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+    }
+</style>
+
